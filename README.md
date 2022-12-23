@@ -1,6 +1,6 @@
 # express-mongo
 
-Litle project based in Node Expres JS with MongoDB and Docker.
+Litle project based in Node Express JS with MongoDB and Docker.
 ## Instructions
 
 - npm install
